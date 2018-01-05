@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>919110169348-l5p5o4f19cn621c6cukojo8fc4tgplak.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.919110169348-l5p5o4f19cn621c6cukojo8fc4tgplak</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBWsvaoUFul0n6l9_Uyt19bfybajG76M_c</string>
+	<key>GCM_SENDER_ID</key>
+	<string>919110169348</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.panorama.acessoja</string>
+	<key>PROJECT_ID</key>
+	<string>acesso-ja</string>
+	<key>STORAGE_BUCKET</key>
+	<string>acesso-ja.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:919110169348:ios:b6c7fadf414cb488</string>
+	<key>DATABASE_URL</key>
+	<string>https://acesso-ja.firebaseio.com</string>
+</dict>
+</plist>

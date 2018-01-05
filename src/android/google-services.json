@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "965641356440",
+    "firebase_url": "https://pdrcar-cliente.firebaseio.com",
+    "project_id": "pdrcar-cliente",
+    "storage_bucket": "pdrcar-cliente.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:965641356440:android:6e38251a31518cf6",
+        "android_client_info": {
+          "package_name": "pdrcar.club.cliente"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "965641356440-f37gq6g0qjid3tg2p3pek6b5jrm0mkrj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQKCeJ0QQZy7SoGUKUhP_9bk58wOqBkBE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
